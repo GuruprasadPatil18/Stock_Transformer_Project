@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+ta
+scikit-learn
+torch
+plotly
+streamlit
+nltk
+GoogleNews
+streamlit-option-menu
